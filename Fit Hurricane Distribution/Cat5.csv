@@ -1,0 +1,34 @@
+,Name,Dates,Duration(hours),wind speeds(km/h),Pressure(hPa),Areas affected,Deaths,Damage(USD)
+0,Allen,"August 5–9, 1980 †",72,305,899,"The Caribbean, Yucatán Peninsula, Mexico, South Texas",269,$1.24 billion
+1,"""Labor Day""",1935-09-03 00:00:00,18,295,892,"The Bahamas, Florida, Georgia, The Carolinas, Virginia",408,
+2,Wilma,2005-10-19 00:00:00,18,295,882,"Greater Antilles, Central America, Florida",87,$29.4 billion
+3,Gilbert,"September 13–14, 1988",24,295,888,"Jamaica, Venezuela, Central America, Hispaniola, Mexico",318,$7.1 billion
+4,Rita,"September 21–22, 2005",24,285,895,"Cuba, United States Gulf Coast",125,$12 billion
+5,Mitch,"October 26–28, 1998",42,285,905,"Central America, Yucatán Peninsula, South Florida",19325,$6.2 billion
+6,Irma,"September 5–9, 2017 †",72,285,914,"Cape Verde, The Caribbean, British Virgin Islands, U.S. Virgin Islands, Cuba, Florida",138,>$64.8 billion
+7,Anita,1977-09-02 00:00:00,12,280,926,Mexico,11,Extensive
+8,Andrew,"August 23–24, 1992 †",16,280,922,"The Bahamas, Florida, United States Gulf Coast",65,$26.5 billion
+9,Janet,"September 27–28, 1955",18,280,914,"Lesser Antilles, Central America",1023,$65.8 million
+10,Carla,1961-09-11 00:00:00,18,280,931,"Texas, Louisiana, Midwestern United States",43,$326 million
+11,Katrina,"August 28–29, 2005",18,280,902,"Bahamas, United States Gulf Coast",1836,$125 billion
+12,Dean,"August 18–21, 2007 †",24,280,905,"The Caribbean, Central America",45,$1.76 billion
+13,Felix,"September 3–4, 2007 †",24,280,929,"Nicaragua, Honduras",133,$720 million
+14,Camille,"August 16–18, 1969 †",30,280,900,"Cuba, United States Gulf Coast",259,$1.42 billion
+15,Maria,"September 18–20, 2017 †",30,280,908,"Lesser Antilles, Virgin Islands, Puerto Rico, Dominican Republic, Turks and Caicos Islands",3057,>$91.6 billion
+16,David,"August 30–31, 1979",42,280,924,"The Caribbean, United States East coast",2068,$1.54 billion
+17,"""Cuba""","November 5–8, 1932",78,280,915,"Lesser Antilles, Jamaica, Cayman Islands, Cuba, The Bahamas, Bermuda",3103,$40 million
+18,"""Cuba""",1924-10-19 00:00:00,12,270,910,"Central America, Mexico, Cuba, Florida, The Bahamas",90,
+19,Matthew,2016-10-01 00:00:00,12,270,934,"Antilles, Venezuela, Colombia, United States East Coast, Atlantic Canada",603,$15.1 billion
+20,Isabel,"September 11–14, 2003 †",42,270,915,"Greater Antilles, Bahamas, Eastern United States, Ontario",51,$5.37 billion
+21,Ivan,"September 9–14, 2004 †",60,270,910,"The Caribbean, Venezuela, United States Gulf Coast",124,$23.3 billion
+22,Edith,1971-09-09 00:00:00,6,260,943,"The Caribbean, Central America, Mexico, United States Gulf Coast",37,$25.4 million
+23,Hugo,1989-09-15 00:00:00,6,260,918,"The Caribbean, United States East Coast",107,$10 billion
+24,Emily,2005-07-16 00:00:00,6,260,929,"Windward Islands, Jamaica, Mexico, Texas",17,$1.01 billion
+25,"""San Felipe II Okeechobee""","September 13–14, 1928",12,260,929,"Lesser Antilles, The Bahamas, United States East Coast, Atlantic Canada",4000,$100 million
+26,"""Cuba–Brownsville""",1933-08-30 00:00:00,12,260,930,"The Bahamas, Cuba, Florida, Texas, Tamaulipas",179,$27.9 million
+27,"""Tampico""",1933-09-21 00:00:00,12,260,929,"Jamaica, Yucatán Peninsula",184,$5 million
+28,Carol,1953-09-03 00:00:00,12,260,929,"Bermuda, New England, Atlantic Canada",5,$2 million
+29,"""New England""","September 19–20, 1938",18,260,940,"Southeastern United States, Northeastern United States, Southwestern Quebec",682,$306 million
+30,Hattie,"October 30–31, 1961",18,260,920,Central America,319,$60.3 million
+31,Beulah,1967-09-20 00:00:00,18,260,923,"The Caribbean, Mexico, Texas",688,$208 million
+32,"""Bahamas""","September 5–6, 1932",24,260,921,"The Bahamas, Northeastern United States",16,
